@@ -29,18 +29,16 @@ To run this banking system project, you'll need the following:
 ### Usage
 
 1. Compile the project:
-
-   bash
+   
    gcc Banking_System.c -o banking_system
    
 
-2. Run the program:
+3. Run the program:
 
-   bash
    ./banking_system
    
 
-3. Follow the on-screen instructions to interact with the banking system.
+4. Follow the on-screen instructions to interact with the banking system.
 
 ## Contributing
 
