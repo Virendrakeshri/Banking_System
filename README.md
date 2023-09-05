@@ -31,7 +31,7 @@ To run this banking system project, you'll need the following:
 1. Compile the project:
 
    bash
-   gcc main.c -o banking_system
+   gcc Banking_System.c -o banking_system
    
 
 2. Run the program:
